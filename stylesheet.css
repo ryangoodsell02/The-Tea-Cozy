@@ -1,0 +1,161 @@
+html {
+    background-color: black;
+    font-family: helvetica;
+    font-size: 22px;
+    color: seashell;
+    background-color: black;
+    opacity: 0.9;
+}
+
+.tea-cozy-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid seashell;
+    height: 69px;
+}
+
+.tea-cozy-header-a {
+    margin-left: 10px;
+}
+
+.tea-cozy-header-img {
+    height: 50px;
+}
+
+.tea-cozy-header-nav {
+    width: 500px;
+}
+
+
+.tea-cozy-header-nav-div-li {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    min-width: 5rem;
+    text-decoration: underline;
+    flex-wrap: wrap;
+}
+
+.main-block {
+    margin: 0rem 1.2rem 0rem 1.2rem;
+}
+
+.msn-bckr-div {
+    background-image: url(./resources/img-mission-background.jpg);
+    height: 700px;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+}
+
+.msn-bckr-div-flex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+.msn-bckr-div-hdr {
+    background-color: black;
+    text-align: center; 
+    width: 100%; 
+}
+
+.msn-bckr-div-hdr h4 {
+    margin-bottom: 0px;
+}
+
+
+.tea-month-div-hdr {
+    text-align: center;
+
+}
+
+.tea-month-div-pics {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center; 
+}
+
+.tea-month-div-pics-a {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center; 
+}
+
+.tea-month-div {
+   width: 300px;
+   height: 250px;
+  
+}
+
+.tea-month-div img {
+    height: 80%;
+    width: 100%;
+    object-fit: cover;
+    margin-top: 15px;
+}
+
+.tea-month-div h4 {
+   margin-top: 10px;
+   text-align: center;
+}
+
+.locations-div {
+    background-image: url(./resources/img-locations-background.jpg);
+    background-size: cover;
+    height: 500px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+
+.locations-div h3 {
+    text-align: center;
+    
+}
+
+.locs-div-box {
+    display: flex;
+    justify-content: space-around;
+}
+
+.locat-box-div {
+    background-color: black;
+    width: 300px;
+    height: 300px;
+    display: inline-block;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.local-div-flex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.local-div {
+    text-align: center;
+}
+
+.local-div h3 {
+    margin: 15px;
+}
+
+.tea-cozy-footer {
+    text-align: center;
+    height: 200px;
+}
+
+.copy-right-div {
+    align-items: end;
+    margin-left: 10px;
+
+}
+
