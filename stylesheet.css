@@ -42,7 +42,7 @@ html {
 }
 
 .msn-bckr-div {
-    background-image: url(./resources/img-mission-background.jpg);
+    background-image: url(img-mission-background.jpg);
     height: 700px;
     background-size: cover;
     display: flex;
@@ -105,7 +105,7 @@ html {
 }
 
 .locations-div {
-    background-image: url(./resources/img-locations-background.jpg);
+    background-image: url(img-locations-background.jpg);
     background-size: cover;
     height: 500px;
     display: flex;
