@@ -114,9 +114,12 @@ html {
 }
 
 
-.locations-div h3 {
+.locations-div {
+    display: block;
+}
+
+locations-div-header {
     text-align: center;
-    
 }
 
 .locs-div-box {
