@@ -108,14 +108,9 @@ html {
     background-image: url(img-locations-background.jpg);
     background-size: cover;
     height: 500px;
-    display: flex;
+    display: block;
     justify-content: space-around;
     align-items: center;
-}
-
-
-.locations-div {
-    display: block;
 }
 
 .locations-div-header {
