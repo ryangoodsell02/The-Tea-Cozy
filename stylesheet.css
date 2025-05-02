@@ -112,6 +112,7 @@ html {
     flex-direction: column;
     justify-content: space-around;
     align-items: center;
+    margin-top: 1rem;
 }
 
 .locations-div-header {
